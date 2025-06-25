@@ -1,2 +1,2 @@
-# PS-skripte-za-li-nu-upotrebu
+# PS-skripte-za-licnu-upotrebu
 PowerShell skripte za ličnu upotrebu
